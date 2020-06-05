@@ -43,3 +43,8 @@ In this section we will try to answer our questions by processing our cleaned da
 
 >The findings mentioned above are basic to understand what factors can play major roles in either recommending a movie or anticipating if a movie will be profitable or not, in addition to other analytics that required statistical tests. However, some limitations were observed, we can mention the lack of information about certain columns,  like 'popularity' that we don't how it is calculated neither what is the scale; knowing such as information would help us to get more accurate results and make better conclusions.
 
+
+**NOTE**
+
+***You may find it frustrating scrolling down in 2 parts of the code that I chose to print the list of the Actors and another list of Movies types, I apologize for the inconvenience, you can jump to the PDF version that is limited to one page for the print section.***
+
