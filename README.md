@@ -46,5 +46,5 @@ In this section we will try to answer our questions by processing our cleaned da
 
 **NOTE**
 
-***You may find it frustrating scrolling down in 2 parts of the code that I chose to print the list of the Actors and another list of Movies types, I apologize for the inconvenience, you can jump to the PDF version that is limited to one page for the print section.***
+***You may find it frustrating scrolling down in 2 parts of the code where I chose to print the list of the Actors and another list of Movies types, I apologize for the inconvenience, you can jump to the PDF version that is limited to one page for the print section.***
 
