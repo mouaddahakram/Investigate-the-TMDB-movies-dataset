@@ -35,12 +35,11 @@ In this section we will try to answer our questions by processing our cleaned da
 
 > As summary of our analysis on the dataset collected between 1960 and 2015 :
 
->>* **Drama** has been the most watched type of movies 
->>* **The Shawshank Redemption** is the highest rated movie 
->>* **Robert De Niro** has the highest number of appearances in movies 
->>* **Action** and **Comedy** tend to be the most profitable genre of movies
->>* **Votes** don't affect the profitability of the movie
+> * **Drama** has been the most watched type of movies 
+> * **The Shawshank Redemption** is the highest rated movie 
+> * **Robert De Niro** has the highest number of appearances in movies 
+> * **Action** and **Comedy** tend to be the most profitable genre of movies
+> * **Votes** don't affect the profitability of the movie
 
->The finding mentioned above is basic to understand what factors can play major roles in either recommending a movie or anticipating if a movie will be profitable or not, in addition to other analytics that required statistical tests. However, some limitations wereobserved, we can mention the lack of information about certain columns,  like 'popularity' that we don't how it is calculated neither what is the scale; knowing such as information would help us to get more accurate results and make better conclusions.
-
+>The findings mentioned above are basic to understand what factors can play major roles in either recommending a movie or anticipating if a movie will be profitable or not, in addition to other analytics that required statistical tests. However, some limitations were observed, we can mention the lack of information about certain columns,  like 'popularity' that we don't how it is calculated neither what is the scale; knowing such as information would help us to get more accurate results and make better conclusions.
 
